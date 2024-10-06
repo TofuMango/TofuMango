@@ -32,4 +32,5 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/Tofumango"/>
 </a>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
