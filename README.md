@@ -30,7 +30,7 @@
   <img src="https://render.gitanimals.org/lines/TofuMango?pet-id=1" width="1000" height="120"/>
 </a>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Tofumango"/>
+  <img src="https://render.gitanimals.org/farms/Tofumango" width = "500"/>
 </a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
