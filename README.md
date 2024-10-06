@@ -26,6 +26,8 @@
 ![TofuMango's github stats](https://github-readme-stats.vercel.app/api?username=TofuMango)
 <!-- ![TofuMango's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TofuMango&show_icons=true&layout=compact) -->
  
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/TofuMango?pet-id=1" width="1000" height="120"/>
+</a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
