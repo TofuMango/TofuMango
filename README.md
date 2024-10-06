@@ -23,11 +23,16 @@
 
 
 ## 👀 Github Stats
-![TofuMango's github stats](
-<!-- ![TofuMango's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TofuMango&show_icons=true&layout=compact) --> 
-
+<div style="display: flex; justify-content: space-between;">
+<div>
+![TofuMango's github stats](https://github-readme-stats.vercel.app/api?username=TofuMango)
+<!-- ![TofuMango's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TofuMango&show_icons=true&layout=compact) -->
+</div>
+<div>
+  <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/Tofumango" width = "450"/> </a>
+</div>
+</div>
 <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/lines/TofuMango?pet-id=1" width="1000" height="120"/> </a> 
-<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/Tofumango" width = "450"/> </a>
 
 
 
