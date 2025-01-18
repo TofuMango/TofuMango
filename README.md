@@ -2,10 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=🤭%20YEJI%20Github%20🤭&fontSize=45&fontAlignY=36&animation=twinkling)
 
-<div align="left">
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTofuMango&count_bg=%23F8D1D1&title_bg=%23F8D1D1&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-
 <br>
 
 ## ❤ Techs & Languages
