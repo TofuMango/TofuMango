@@ -27,14 +27,13 @@
 <!-- ![TofuMango's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TofuMango&show_icons=true&layout=compact) -->
 
 <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/Tofumango" width = "450"/> </a>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=TofuMango&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/TofuMango?pet-id=635806185670139669"
-    width="1000"
+    src="https://render.gitanimals.org/lines/TofuMango?pet-id=668437592109459362"
+    width="600"
     height="120"
   />
 </a>
-
+  
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
