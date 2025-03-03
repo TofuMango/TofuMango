@@ -4,7 +4,7 @@
 
 <br>
 
-## ❤ Techs & Languages
+## ❤ Techs & Languages ❤
 
 <p>
   <img src="https://img.shields.io/badge/Python-453C67?style=flat&logo=Python&logoColor=white"/>&nbsp;
