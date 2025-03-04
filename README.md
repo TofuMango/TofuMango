@@ -19,7 +19,7 @@
 
 <br>
 
-## 👀 Github Stats
+## Github Stats
 
 ![TofuMango's github stats](https://github-readme-stats.vercel.app/api?username=TofuMango)
 <!-- ![TofuMango's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TofuMango&show_icons=true&layout=compact) -->
